@@ -9,7 +9,7 @@ RAM: 4GB
 ## Short way at Ubuntu
 
 ```
-curl https://raw.githubusercontent.com/webtor-io/helm-charts/master/scripts/get-webtor.sh | sh
+curl https://raw.githubusercontent.com/tvbishan/helm-charts/master/scripts/get-webtor.sh | sh
 ```
 
 This will install single-node microk8s cluster and setup webtor on it (api + web-ui).
