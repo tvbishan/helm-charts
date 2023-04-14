@@ -1,4 +1,4 @@
-OWNER=webtor-io
+OWNER=tvbishan
 REPO=helm-charts
 # rm -rf .deploy/*
 mkdir -p .deploy/index
