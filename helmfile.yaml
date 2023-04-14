@@ -124,5 +124,6 @@ releases:
         type: NodePort
     - image:
         tag: 22b20348a03eaea4b7a573804f97ab7fa7dbafd6
+        pullPolicy: Always
     - clients.yaml
     - torrent-http-proxy.yaml
